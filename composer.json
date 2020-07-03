@@ -1,0 +1,20 @@
+{
+    "name": "pi-web/pi-form",
+    "description": "Package Pi Form",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Quentin Guillou",
+            "email": "guillou.quentin.29@gmail.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "PiWeb\\PiForm\\": ""
+        }
+    }
+}
